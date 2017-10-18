@@ -1,0 +1,11 @@
+{
+  "name": "splix-timelapse",
+  "version": "1.0.0",
+  "description": "Make a timelapse of splix",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Benjamin Earl",
+  "license": "ISC"
+}
